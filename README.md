@@ -27,6 +27,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rogigs/rogigs/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/rogigs/rogigs/blob/output/github-contribution-grid-snake.svg)
 
 ###
