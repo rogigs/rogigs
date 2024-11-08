@@ -7,8 +7,4 @@
   
 </div>
 
-### Look my public learnings
-
-- [Diary](https://igor-soares.notion.site/Di-rio-6ce34357ada84bf681bfc72313473baf?pvs=25) pt-BR
-- [Github Gist](https://gist.github.com/rogigs)
 
